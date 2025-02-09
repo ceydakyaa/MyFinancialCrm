@@ -9,6 +9,7 @@ Kullanıcıların Dashboard ekranına erişebilmesi için sisteme kendilerine ö
 ![Image](https://github.com/user-attachments/assets/dd3ec24e-af83-485f-8956-04306f2dd38a)
 
 Dashboard Ekranı
+
 Kullanıcılar Dashboard ekranı üzerinden finansal durumlarını detaylı bir şekilde görüntüleyebilir. Bu ekranda:
 
 Toplam Bakiye anlık olarak takip edilebilir.
