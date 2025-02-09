@@ -24,4 +24,6 @@ Banka ve Hesap Dağılım Grafiği, farklı banka hesaplarındaki para miktarlar
 
 Bu sayede kullanıcılar tüm finansal hareketlerini tek bir ekrandan pratik ve anlaşılır bir şekilde takip edebilir.
 
+![Image](https://github.com/user-attachments/assets/88fc83fd-e127-4d66-b286-19d138f532db)
+
 
