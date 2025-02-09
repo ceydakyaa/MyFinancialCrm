@@ -1,4 +1,4 @@
-☺︎ FinancialCRM
+FİNANCİALCRM
 
 FinancialCRM, kullanıcıların banka hesaplarını tek bir yerden yönetmesine olanak tanır. Bakiye durumu, hesap hareketleri, harcamalar ve faturalar gibi finansal bilgileri takip etmeyi kolaylaştırırken, tüm verileri belirli kategorilere ayırarak düzenli bir finans yönetimi sunar.
 
