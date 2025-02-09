@@ -13,10 +13,15 @@ Dashboard Ekranı
 Kullanıcılar Dashboard ekranı üzerinden finansal durumlarını detaylı bir şekilde görüntüleyebilir. Bu ekranda:
 
 Toplam Bakiye anlık olarak takip edilebilir.
+
 Fatura Bilgileri, belirli aralıklarla güncellenerek ekranda gösterilir.
+
 Son Gelen Havale İşlemleri listelenir.
+
 Banka ve Hesap Dağılım Grafiği, farklı banka hesaplarındaki para miktarlarının istatistiksel dağılımını görselleştirir.
+
 Ödenmesi Gereken Faturalar Grafiği, yaklaşan ve bekleyen faturaların genel durumunu analiz etmeye yardımcı olur.
+
 Bu sayede kullanıcılar tüm finansal hareketlerini tek bir ekrandan pratik ve anlaşılır bir şekilde takip edebilir.
 
 
