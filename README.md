@@ -36,4 +36,6 @@ Son 5 Banka Hareketini detaylarıyla inceleyerek hesap akışlarını kontrol ed
 
 Bu sayede farklı bankalara ait hesap bilgileri tek bir ekranda toplu olarak sunulur, böylece finans yönetimi daha pratik hale gelir.
 
+![Image](https://github.com/user-attachments/assets/0c8adf59-c644-47b0-a13c-72407bd7e59f)
+
 
