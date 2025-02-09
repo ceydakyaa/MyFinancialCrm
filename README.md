@@ -38,4 +38,19 @@ Bu sayede farklı bankalara ait hesap bilgileri tek bir ekranda toplu olarak sun
 
 ![Image](https://github.com/user-attachments/assets/0c8adf59-c644-47b0-a13c-72407bd7e59f)
 
+Faturalar Ekranı
+
+Bu ekran, kullanıcıların faturalarını etkili bir şekilde yönetmelerine olanak tanır. Kullanıcılar:
+
+Yeni fatura ekleyebilir
+
+Mevcut faturalarını güncelleyebilir
+
+Gereksiz faturaları silebilir
+
+Tüm faturalarını listeleyerek kolayca görüntüleyebilir.
+
+Bu sayede faturalar üzerinde tam kontrol sağlanarak ödeme takibi daha düzenli hale getirilir.
+
+
 
