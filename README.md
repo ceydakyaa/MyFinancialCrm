@@ -52,5 +52,4 @@ Tüm faturalarını listeleyerek kolayca görüntüleyebilir.
 
 Bu sayede faturalar üzerinde tam kontrol sağlanarak ödeme takibi daha düzenli hale getirilir.
 
-
-
+![Image](https://github.com/user-attachments/assets/65e9f5bb-ff5c-4400-a4c1-3cfdd12f8371)
