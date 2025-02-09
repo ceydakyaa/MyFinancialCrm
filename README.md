@@ -26,4 +26,12 @@ Bu sayede kullanıcılar tüm finansal hareketlerini tek bir ekrandan pratik ve 
 
 ![Image](https://github.com/user-attachments/assets/88fc83fd-e127-4d66-b286-19d138f532db)
 
+Bankalar Ekranı
+
+Bu ekran, kullanıcıların farklı bankalardaki finansal durumlarını kolayca takip etmelerini sağlar. Kullanıcılar:
+
+Tüm Bankalardaki Toplam Bakiyelerini tek bir yerden görüntüleyebilir.
+Son 5 Banka Hareketini detaylarıyla inceleyerek hesap akışlarını kontrol edebilir.
+Bu sayede farklı bankalara ait hesap bilgileri tek bir ekranda toplu olarak sunulur, böylece finans yönetimi daha pratik hale gelir.
+
 
