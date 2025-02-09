@@ -53,3 +53,15 @@ Tüm faturalarını listeleyerek kolayca görüntüleyebilir.
 Bu sayede faturalar üzerinde tam kontrol sağlanarak ödeme takibi daha düzenli hale getirilir.
 
 ![Image](https://github.com/user-attachments/assets/65e9f5bb-ff5c-4400-a4c1-3cfdd12f8371)
+
+Harcamalar Ekranı
+
+Bu ekran, kullanıcıların harcamalarını detaylı bir şekilde takip etmelerini sağlar. Kullanıcılar:
+
+Giderlerini farklı kategorilere ayırabilir
+
+Ekleme, silme, güncelleme ve listeleme işlemlerini kolayca yapabilir
+
+Toplam masraflarını anlık olarak görüntüleyebilir.
+
+Bu özellikler, harcama yönetimini daha düzenli hale getirerek kullanıcıların finansal durumlarını net bir şekilde görmelerini sağlar.
